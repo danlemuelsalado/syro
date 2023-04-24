@@ -1,6 +1,6 @@
 {
-  "name": "syro",
-  "version": "1.0.0",
+  "name": "syro-cli-echo",
+  "version": "1.0.1",
   "description": "Inject secrets from a Syro project to your app using the Syro CLI App.",
   "main": "index.js",
   "scripts": {
